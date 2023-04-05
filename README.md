@@ -80,7 +80,7 @@
   </a>
   &emsp; 
   <a href="https://vue.io" target="_blank"> 
-    <img alt="Vue.js" src="https://img.shields.io/badge/vue.js-%23DD0031.svg?style=flat&logo=vue.js&logoColor=yellow"/>
+    <img alt="Vue.js" src="https://img.shields.io/badge/vue.js-%20-%23F7DF1E.svg?style=flat&logo=vue.js&logoColor=yellow"/>
   </a>
   &emsp; 
 </p>
