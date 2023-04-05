@@ -3,18 +3,7 @@
 ![profile count](https://komarev.com/ghpvc/?username=hotcappuchino&color=red)&nbsp;
 [![GitHub hotcappuchino](https://img.shields.io/github/followers/hotcappuchino?label=follow&style=social)](https://github.com/hotcappuchino)&nbsp;
 ![build: passing](https://img.shields.io/badge/build-passing-success)
-### 👨🏻‍💻 &nbsp;About Me
-
-💡 &nbsp; I have been working as a Web & Blockchain developer for 7 years and have developed many projects according to clients' needs. \
-💻 &nbsp; I am a self-motivated expert with a solid work ethic and a productive self-starter, which alongside my aptitude for learning, keeps me updated. \
-🎓&nbsp; I am an ambitious man with rich experience.\
-🌱 &nbsp;Creative, sophisticated, dedicated engineer with imaginative and efficient solutions for large-scale websites.\
-✍️ &nbsp;Develop high-quality Mobile app for rapid deployment of bug fixes and new features using established development standards. \
-💬 &nbsp;As an expert problem solver, responsive to client needs, and detail-oriented, I have a proven track record of consistently providing high levels of customer satisfaction.\
-✉️ &nbsp;I can contribute to your project as an individual full-stack developer. \
-📄 &nbsp;And if you want to work with our agency, I can lead teammates. Always looking for new solutions and new challenges, new experiences.
-
-
+### 
 ## 🛠️ My Skills
 
 <table>
