@@ -5,7 +5,8 @@
 ![build: passing](https://img.shields.io/badge/build-passing-success)
 ### 
 <h2>Top Rated Web Developer with Mobile Expertise</h2>
-🛠️ My Skills
+
+<h3>🛠️ My Skills </h3>
 
 <table>
   <tr>
