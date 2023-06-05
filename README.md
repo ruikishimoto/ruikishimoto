@@ -53,16 +53,4 @@
    </tr>
   </table>
   
-<h3 align="left"><img src="http://bestanimations.com/Signs&Shapes/Arrows/Right/right-arrow-24.gif"  height="20" width="25" > CONNECT WITH ME:</h3>
-<p align="left">
-  <a href="https://twitter.com/vaishnavilugade" target="_blank" rel="noreferrer"> <img class="img" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="go" width="70" height="40"/> </a>   
-   <a href="https://linkedin.com/in/linkedin.com/in/vaishnavi-lugade-6351a8228" target="_blank" rel="noreferrer"> <img class="img" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="html5" width="70" height="40"/> </a>  
-     <a href="https://www.codechef.com/users/vaishnvilugade" target="_blank" rel="noreferrer"> <img  src="https://soumyadipghorai.github.io/images/coding_profile/codechef.png" alt="java" width="60" height="40"/> </a> 
-        <a href="https://medium.com/@vaishnavilugade" target="_blank" rel="noreferrer"> <img class="img" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="mysql" width="70" height="40"/> </a> 
-           <a href="https://www.hackerrank.com/vaishnavilugade" target="_blank" rel="noreferrer"> <img class="img" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="python" width="80" height="40"/> </a> &nbsp;&nbsp;&nbsp;&nbsp;  
-              <a href="https://www.hackerearth.com/@vaishnavilugade" target="_blank" rel="noreferrer"><img class="img" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="vscode" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-              <a href="https://leetcode.com/vaishnavilugade/" target="_blank"><img class="set"   src="https://tse2.mm.bing.net/th?id=OIP.L2Jfuatqty2XAIUqYnr_pgHaHa&pid=Api&P=0" alt="@vaishnavilugade" height="40" width="40"  /> </a>&nbsp;&nbsp;&nbsp;&nbsp; 
-  <a href="" target="_blank"><img class="set" src="https://tse3.mm.bing.net/th?id=OIP.rIY0MF5A8EoNIVkTrakKKgHaHa&pid=Api&P=0" alt="@vaishnavilugade" height="40" width="40"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-              <a href="https://www.codeforces.com/profile/vaishnavilugade" target="_blank"><img class="set"  src="https://lh3.googleusercontent.com/zaldniLc2XTBhNlCDR4hcD5bcRYHZ56_lO0yA2Qu-cADShy1_HDWrICSvv0EPTX79WY=s180" alt="@vaishnavilugade" height="40" width="40" /> </a></p>
-</p>
 <br/>
