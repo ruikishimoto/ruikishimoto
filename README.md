@@ -52,6 +52,8 @@
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" /></td>
    </tr>
   </table>
+  
+<h3 align="left"><img src="http://bestanimations.com/Signs&Shapes/Arrows/Right/right-arrow-24.gif"  height="20" width="25" > CONNECT WITH ME:</h3>
 <p align="left">
   <a href="https://twitter.com/vaishnavilugade" target="_blank" rel="noreferrer"> <img class="img" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="go" width="70" height="40"/> </a>   
    <a href="https://linkedin.com/in/linkedin.com/in/vaishnavi-lugade-6351a8228" target="_blank" rel="noreferrer"> <img class="img" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="html5" width="70" height="40"/> </a>  
