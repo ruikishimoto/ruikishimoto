@@ -4,7 +4,9 @@
 [![GitHub hotcappuchino](https://img.shields.io/github/followers/ruikishimoto?label=follow&style=social)](https://github.com/ruikishimoto)&nbsp;
 ![build: passing](https://img.shields.io/badge/build-passing-success)
 ### 
-<h2>Top Rated Web Developer with Mobile Expertise</h2>
+<h2>Top Rated Web Developer with Mobile Expertise.</h2>
+<h4>I am the lead develooper of online development team called FlexCode of 8 talents</h4>
+<h4>2 Frontend Developer, 2 Backend Developer, 1 Database Expert, 1 UI/UX Designer, 1 AI Expert</h4>
 
 <h3>🛠️ My Skills </h3>
 
