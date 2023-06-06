@@ -1,7 +1,7 @@
 ### 
 ![version :01.21.2023](https://img.shields.io/badge/version-21.01.2023-informational) &nbsp;
-![profile count](https://komarev.com/ghpvc/?username=hotcappuchino&color=red)&nbsp;
-[![GitHub hotcappuchino](https://img.shields.io/github/followers/hotcappuchino?label=follow&style=social)](https://github.com/hotcappuchino)&nbsp;
+![profile count](https://komarev.com/ghpvc/?username=ruikishimoto&color=red)&nbsp;
+[![GitHub hotcappuchino](https://img.shields.io/github/followers/ruikishimoto?label=follow&style=social)](https://github.com/ruikishimoto)&nbsp;
 ![build: passing](https://img.shields.io/badge/build-passing-success)
 ### 
 <h2>Top Rated Web Developer with Mobile Expertise</h2>
