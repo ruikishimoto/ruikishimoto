@@ -45,7 +45,7 @@
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="55" height="auto"  /></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" width="55" height="auto" /></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="55" height="auto" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react-native/react-native-original.svg" width="55" height="auto"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/reactnative/reactnative-original.svg" width="55" height="auto"/></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="55" height="auto" /></td>
    </tr>
    <tr>
