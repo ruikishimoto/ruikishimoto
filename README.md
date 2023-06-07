@@ -7,7 +7,6 @@
 <h2>Top Rated Web Developer with Mobile Expertise.</h2>
 <h4>Awesome.</h4>
 <h4>I grew up in Japan and moved to the United States in 2018, so I have a unique perspective on developing and designing modern websites and mobile applications with over 10 years of experience.</h4>
-<h4>I am the lead develooper of FlexCode of 8 talents.</h4>
 
 <h3>🛠️ My Skills </h3>
 <table>
