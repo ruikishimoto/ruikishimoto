@@ -8,7 +8,6 @@
 <h4>Awesome.</h4>
 <h4>I grew up in Japan and moved to the United States in 2021, so I have a unique perspective on developing and designing modern websites and mobile applications with over 10 years of experience.</h4>
 <h4>I am the lead develooper of online development team called FlexCode of 8 talents</h4>
-<h4>2 Frontend Developer, 2 Backend Developer, 1 Database Expert, 1 UI/UX Designer, 1 AI Expert</h4>
 
 <h3>🛠️ My Skills </h3>
 <table>
