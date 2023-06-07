@@ -7,14 +7,6 @@
 <h2>Top Rated Web Developer with Mobile Expertise.</h2>
 <h4>Awesome.</h4>
 <h4>I grew up in Japan and moved to the United States in 2021, so I have a unique perspective on developing and designing modern websites and mobile applications with over 10 years of experience.</h4>
-<h4>Start projects immediately.</h4>
-<h4>Maintain good communication throughout the project.</h4>
-<h4>Update the results daily or weekly.</h4>
-<h4>Make sure to stay on-time and on-budget.</h4>
-<h4>Guarantee 100% satisfaction with the project.</h4>
-<h4>Offer lifetime free bug-fix support after completion.</h4>
-<h4>Able to work more than 40 hours a week, including weekends.</h4>
-<h4>Always flexible with time zones.</h4>
 <h4>I am the lead develooper of online development team called FlexCode of 8 talents</h4>
 <h4>2 Frontend Developer, 2 Backend Developer, 1 Database Expert, 1 UI/UX Designer, 1 AI Expert</h4>
 
