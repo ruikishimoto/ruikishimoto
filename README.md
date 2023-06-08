@@ -4,7 +4,7 @@
 [![GitHub hotcappuchino](https://img.shields.io/github/followers/ruikishimoto?label=follow&style=social)](https://github.com/ruikishimoto)&nbsp;
 ![build: passing](https://img.shields.io/badge/build-passing-success)
 ### 
-<h2>Top Rated Web Developer with Mobile Expertise.</h2>
+<h2>End-to-End Full Stack Developer for Web & Mobile Solutions.</h2>
 <h4>Awesome.</h4>
 <h4>I grew up in Japan and moved to the United States in 2018, so I have a unique perspective on developing and designing modern websites and mobile applications with over 10 years of experience.</h4>
 
