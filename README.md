@@ -39,8 +39,7 @@
    </tr>
   </table>
 
-## ✨ Certifications ✨ :
-
+<h3>✨ Certifications </h3>
 <!--START_SECTION:badges-->
 
 [![AWS Academy Graduate - AWS Academy Cloud Foundations](https://images.credly.com/size/110x110/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png)](https://www.credly.com/badges/957561ad-7654-40e0-bc8c-2a796d52fc99/public_url "AWS Academy Graduate - AWS Academy Cloud Foundations")
