@@ -80,10 +80,6 @@
       <br>Postman
     </td>    
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=vscode" alt="icon" width="40" height="40" />
-      <br>VScode
-    </td>
-    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=git" alt="icon" width="40" height="40" />
       <br>Git
     </td>
