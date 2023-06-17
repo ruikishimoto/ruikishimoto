@@ -43,7 +43,11 @@
     </td>
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=flutter" alt="icon" width="40" height="40" />
-      <br>Java
+      <br>Flutter
+    </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=reactnative" alt="icon" width="40" height="40" />
+      <br>React Native
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=spring" alt="icon" width="40" height="40" />
