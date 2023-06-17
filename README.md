@@ -46,8 +46,12 @@
       <br>Flutter
     </td>
       <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=react-native" alt="icon" width="40" height="40" />
-      <br>React Native
+        <img src="https://skillicons.dev/icons?i=kotlin" alt="icon" width="40" height="40" />
+      <br>Kotlin
+    </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=swift" alt="icon" width="40" height="40" />
+      <br>Swift
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=spring" alt="icon" width="40" height="40" />
