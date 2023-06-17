@@ -1,10 +1,10 @@
-<h2>End-to-End Full Stack Developer for Web & Mobile Solutions.</h2>
+<h2>12 Years of Experience in Web & Android & iOS & Game Development</h2>
 
 <h4>Awesome.</h4>
 <h4>As a seasoned developer and designer with over a decade of experience, I offer my expertise in developing and designing modern websites and mobile applications.<br/>  With extensive experience gained from living and working in both Japan and the United States, I bring a unique, cross-cultural perspective to my work.</h4>
 
 
-## Technologies ⚙️🖥💻
+## Technologies 💻
 
 <table>
   <tr>
@@ -110,7 +110,7 @@
 ## Github Stat ⚙️
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ruikishimoto&show_icons=true&locale=en" alt="Rui Kishimoto" /></p>
 
-## Contact ⚙️
+## Contact 📱
 
 <p align='left'>
   <a href="mailto:ruikishimoto99@gmail.com" target="_blank">
