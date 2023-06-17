@@ -76,14 +76,6 @@
       <br>IntelliJ
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=postman" alt="icon" width="40" height="40" />
-      <br>Postman
-    </td>    
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=git" alt="icon" width="40" height="40" />
-      <br>Git
-    </td>
-    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=aws" alt="icon" width="40" height="40" />
       <br>AWS
     </td>
