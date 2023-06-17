@@ -107,3 +107,21 @@
 </table>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ruikishimoto&show_icons=true&locale=en" alt="Rui Kishimoto" /></p>
+
+<p align='left'>
+  <a href="mailto:ruikishimoto99@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="https://join.skype.com/invite/s0zg9h75xLQJ" target="_blank">
+    <img src="https://img.shields.io/badge/Skype-0078d4?style=for-the-badge&logo=skype&logoColor=white" alt="Skype">
+  </a>
+  <a href="https://t.me/HotCappuchino">
+    <img src="https://img.shields.io/badge/Telegram-3390ec?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+  </a>
+  <a href="HotCappuchino#8045">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+  </a>
+  <a href="https://www.linkedin.com/in/rui-kishimoto-a12b15275">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
