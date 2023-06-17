@@ -47,6 +47,8 @@
         <img src="https://skillicons.dev/icons?i=java" alt="icon" width="40" height="40" />
       <br>Java
     </td>
+  </tr>
+  <tr>    
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=flutter" alt="icon" width="40" height="40" />
       <br>Flutter
@@ -55,8 +57,6 @@
         <img src="https://skillicons.dev/icons?i=kotlin" alt="icon" width="40" height="40" />
       <br>Kotlin
     </td>
-  </tr>
-  <tr>    
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=swift" alt="icon" width="40" height="40" />
       <br>Swift
@@ -89,6 +89,8 @@
         <img src="https://skillicons.dev/icons?i=graphql" alt="icon" width="40" height="40" />
       <br>GraphQL
     </td>
+  </tr>
+  <tr>    
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=docker" alt="icon" width="40" height="40" />
       <br>Docker
