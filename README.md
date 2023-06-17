@@ -89,12 +89,12 @@
         <img src="https://skillicons.dev/icons?i=aws" alt="icon" width="40" height="40" />
       <br>AWS
     </td>
+  </tr>
+  <tr>    
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=graphql" alt="icon" width="40" height="40" />
       <br>GraphQL
     </td>
-  </tr>
-  <tr>    
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=docker" alt="icon" width="40" height="40" />
       <br>Docker
