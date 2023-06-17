@@ -110,6 +110,13 @@
 ## Github Stat ⚙️
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ruikishimoto&show_icons=true&locale=en" alt="Rui Kishimoto" /></p>
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ruikishimoto&show_icons=true&locale=en&layout=compact" alt="Rui Kishimoto" /> 
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=ruikishimoto&" alt="Rui Kishimoto" /></p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+</p>
+
 ## Contact 📱
 
 <p align='left'>
