@@ -1,4 +1,7 @@
 <h2>End-to-End Full Stack Developer for Web & Mobile Solutions.</h2>
+
+## Summery ⚙️
+
 <h4>Awesome.</h4>
 <h4>As a seasoned developer and designer with over a decade of experience, I offer my expertise in developing and designing modern websites and mobile applications.<br/>  With extensive experience gained from living and working in both Japan and the United States, I bring a unique, cross-cultural perspective to my work.</h4>
 
@@ -106,7 +109,10 @@
   </tr>
 </table>
 
+## Github Stat ⚙️
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ruikishimoto&show_icons=true&locale=en" alt="Rui Kishimoto" /></p>
+
+## Contact ⚙️
 
 <p align='left'>
   <a href="mailto:ruikishimoto99@gmail.com" target="_blank">
