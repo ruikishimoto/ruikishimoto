@@ -108,7 +108,9 @@
 </table>
 
 ## Github Stat ⚙️
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ruikishimoto&" alt="Rui Kishimoto" />
+<p>
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ruikishimoto&" alt="Rui Kishimoto" />  
+</p>
 
 ## Contact 📱
 
