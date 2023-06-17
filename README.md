@@ -108,12 +108,7 @@
 </table>
 
 ## Github Stat ⚙️
-
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=ruikishimoto&" alt="Rui Kishimoto" /></p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
-</p>
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ruikishimoto&" alt="Rui Kishimoto" />
 
 ## Contact 📱
 
