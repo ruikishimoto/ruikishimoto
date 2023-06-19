@@ -1,9 +1,9 @@
 <h2>12 Years of Experience in Web & Android & iOS & Game Development</h2>
 
 <h4>Awesome.</h4> 
+[![GitHub ruikishimoto](https://img.shields.io/github/followers/ruikishimoto?label=follow&style=social)](https://github.com/ruikishimoto)
 <h4>As a seasoned developer and designer with over a decade of experience, I offer my expertise in developing and designing modern websites and mobile applications.<br/>  With extensive experience gained from living and working in both Japan and the United States, I bring a unique, cross-cultural perspective to my work.</h4>
 
-[![GitHub ruikishimoto](https://img.shields.io/github/followers/ruikishimoto?label=follow&style=social)](https://github.com/ruikishimoto)
 
 ## Technologies 💻
 
