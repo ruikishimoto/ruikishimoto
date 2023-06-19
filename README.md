@@ -5,12 +5,6 @@
 
 [![GitHub ruikishimoto](https://img.shields.io/github/followers/ruikishimoto?label=follow&style=social)](https://github.com/ruikishimoto)
 
----
-
-<img width=100% src="https://github-profile-trophy.vercel.app/?username=ruikishimoto&column=7"/>
-
----
-
 ## Technologies 💻
 
 <table>
